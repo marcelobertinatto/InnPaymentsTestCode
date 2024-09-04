@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InCommPayment.Application/1.0.0": {
+        "dependencies": {
+          "InCommPayment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InCommPayment.Application.dll": {}
+        }
+      },
+      "InCommPayment.Domain/1.0.0": {
+        "runtime": {
+          "InCommPayment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InCommPayment.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InCommPayment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

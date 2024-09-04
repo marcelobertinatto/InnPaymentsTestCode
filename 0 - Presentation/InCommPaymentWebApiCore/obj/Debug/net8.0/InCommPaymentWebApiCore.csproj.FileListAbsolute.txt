@@ -1,0 +1,84 @@
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.csproj.AssemblyReference.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.AssemblyInfoInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.AssemblyInfo.cs
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.csproj.CoreCompileInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.MvcApplicationPartsAssemblyInfo.cs
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.MvcApplicationPartsAssemblyInfo.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.sourcelink.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/appsettings.Development.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/appsettings.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore.deps.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore.runtimeconfig.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Application.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Application.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Infra.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Domain.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets.build.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets.development.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets/msbuild.InCommPaymentWebApiCore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets/msbuild.build.InCommPaymentWebApiCore.props
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.InCommPaymentWebApiCore.props
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.InCommPaymentWebApiCore.props
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/scopedcss/bundle/InCommPaymentWebApiCore.styles.css
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPa.F678C5D3.Up2Date
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/refint/InCommPaymentWebApiCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.genruntimeconfig.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/obj/Debug/net8.0/ref/InCommPaymentWebApiCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/appsettings.Development.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/appsettings.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore.deps.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore.runtimeconfig.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPaymentWebApiCore.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Application.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Application.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Domain.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/bin/Debug/net8.0/InCommPayment.Infra.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.csproj.AssemblyReference.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.AssemblyInfoInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.AssemblyInfo.cs
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.csproj.CoreCompileInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.MvcApplicationPartsAssemblyInfo.cs
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.MvcApplicationPartsAssemblyInfo.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.sourcelink.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets.build.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets.development.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets/msbuild.InCommPaymentWebApiCore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets/msbuild.build.InCommPaymentWebApiCore.props
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.InCommPaymentWebApiCore.props
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.InCommPaymentWebApiCore.props
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/scopedcss/bundle/InCommPaymentWebApiCore.styles.css
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPa.F678C5D3.Up2Date
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/refint/InCommPaymentWebApiCore.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/InCommPaymentWebApiCore.genruntimeconfig.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/Debug/net8.0/ref/InCommPaymentWebApiCore.dll

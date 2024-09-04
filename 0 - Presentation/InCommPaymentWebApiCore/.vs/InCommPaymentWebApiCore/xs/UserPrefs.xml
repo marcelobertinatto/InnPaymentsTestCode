@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{DA68D7EF-AA35-4F20-AD76-F1558EA4C022}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../InCommPayment.Infra/Repository/RepositoryBase.cs">
+    <Files>
+      <File FileName="Controller/ProductController.cs" Line="61" Column="59" />
+      <File FileName="Program.cs" Line="53" Column="34" />
+      <File FileName="../InCommPayment.Application/Services/AppServiceBase.cs" Line="31" Column="45" />
+      <File FileName="../InCommPayment.Domain/Services/ServiceBase.cs" Line="32" Column="41" />
+      <File FileName="../InCommPayment.Infra/Repository/RepositoryBase.cs" Line="26" Column="48" />
+      <File FileName="../InCommPayment.Infra/UnitOfWork/UnitOfWork.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InCommPaymentWebApiCore" expanded="True">
+            <Node name="0 - Presentation" expanded="True">
+              <Node name="InCommPaymentWebApiCore">
+                <Node name="Controller" expanded="True" />
+                <Node name="Properties" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="1 - Application" expanded="True">
+              <Node name="InCommPayment.Application" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="2 - Domain" expanded="True">
+              <Node name="InCommPayment.Domain" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="3 - Infra" expanded="True">
+              <Node name="InCommPayment.Infra" expanded="True">
+                <Node name="Repository" expanded="True">
+                  <Node name="RepositoryBase.cs" selected="True" />
+                </Node>
+                <Node name="UnitOfWork" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.0_220-_220Presentation.InCommPaymentWebApiCore PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/Controller/ProductController.cs" relfile="Controller/ProductController.cs" line="92" column="1" />
+    <Breakpoint file="/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPaymentWebApiCore/Controller/ProductController.cs" relfile="Controller/ProductController.cs" line="58" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

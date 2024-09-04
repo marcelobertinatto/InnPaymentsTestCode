@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9JicNAWz8lD4QIhTo6zgrLRBadPZ8Gevre9ul7g3yD4=",
+  "Source": "InCommPaymentWebApiCore",
+  "BasePath": "_content/InCommPaymentWebApiCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

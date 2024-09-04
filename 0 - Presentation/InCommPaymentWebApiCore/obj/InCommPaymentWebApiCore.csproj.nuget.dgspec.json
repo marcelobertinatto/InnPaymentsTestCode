@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/InCommPaymentWebApiCore.csproj": {}
+  },
+  "projects": {
+    "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/InCommPaymentWebApiCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/InCommPaymentWebApiCore.csproj",
+        "projectName": "InCommPaymentWebApiCore",
+        "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/InCommPaymentWebApiCore.csproj",
+        "packagesPath": "/Users/marcelobertinatto/.nuget/packages/",
+        "outputPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/0 - Presentation/InCommPaymentWebApiCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelobertinatto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/1 - Application/InCommPayment.Application/InCommPayment.Application.csproj": {
+                "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/1 - Application/InCommPayment.Application/InCommPayment.Application.csproj"
+              },
+              "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj": {
+                "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj"
+              },
+              "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/InCommPayment.Infra.csproj": {
+                "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/InCommPayment.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.7.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.7.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.7.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/1 - Application/InCommPayment.Application/InCommPayment.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/1 - Application/InCommPayment.Application/InCommPayment.Application.csproj",
+        "projectName": "InCommPayment.Application",
+        "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/1 - Application/InCommPayment.Application/InCommPayment.Application.csproj",
+        "packagesPath": "/Users/marcelobertinatto/.nuget/packages/",
+        "outputPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/1 - Application/InCommPayment.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelobertinatto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj": {
+                "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj",
+        "projectName": "InCommPayment.Domain",
+        "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj",
+        "packagesPath": "/Users/marcelobertinatto/.nuget/packages/",
+        "outputPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelobertinatto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/InCommPayment.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/InCommPayment.Infra.csproj",
+        "projectName": "InCommPayment.Infra",
+        "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/InCommPayment.Infra.csproj",
+        "packagesPath": "/Users/marcelobertinatto/.nuget/packages/",
+        "outputPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcelobertinatto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj": {
+                "projectPath": "/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/InCommPayment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

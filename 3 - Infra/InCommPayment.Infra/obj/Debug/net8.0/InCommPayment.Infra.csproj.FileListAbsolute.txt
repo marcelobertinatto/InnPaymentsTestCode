@@ -1,0 +1,32 @@
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Infra.deps.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Infra.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Domain.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.csproj.AssemblyReference.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.AssemblyInfoInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.AssemblyInfo.cs
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.csproj.CoreCompileInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.sourcelink.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPa.68795881.Up2Date
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/refint/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Infra/obj/Debug/net8.0/ref/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Infra.deps.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Infra.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/bin/Debug/net8.0/InCommPayment.Domain.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.csproj.AssemblyReference.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.AssemblyInfoInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.AssemblyInfo.cs
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.csproj.CoreCompileInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.sourcelink.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPa.68795881.Up2Date
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/refint/InCommPayment.Infra.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/InCommPayment.Infra.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/3 - Infra/InCommPayment.Infra/obj/Debug/net8.0/ref/InCommPayment.Infra.dll

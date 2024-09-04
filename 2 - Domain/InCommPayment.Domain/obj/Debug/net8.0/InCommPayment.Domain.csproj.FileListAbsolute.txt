@@ -1,0 +1,24 @@
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/bin/Debug/net8.0/InCommPayment.Domain.deps.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/bin/Debug/net8.0/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/bin/Debug/net8.0/InCommPayment.Domain.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.AssemblyInfoInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.AssemblyInfo.cs
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.csproj.CoreCompileInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.sourcelink.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/refint/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/InCommPayment.Domain/obj/Debug/net8.0/ref/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/bin/Debug/net8.0/InCommPayment.Domain.deps.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/bin/Debug/net8.0/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/bin/Debug/net8.0/InCommPayment.Domain.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.AssemblyInfoInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.AssemblyInfo.cs
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.csproj.CoreCompileInputs.cache
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.sourcelink.json
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/refint/InCommPayment.Domain.dll
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/InCommPayment.Domain.pdb
+/Users/marcelobertinatto/Sandbox/InnPaymentsTestCode/2 - Domain/InCommPayment.Domain/obj/Debug/net8.0/ref/InCommPayment.Domain.dll
