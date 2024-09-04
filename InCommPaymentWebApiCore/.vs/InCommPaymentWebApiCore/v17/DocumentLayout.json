@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Marcelo\\SandBox\\InnPaymentsTestCode\\InCommPaymentWebApiCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA68D7EF-AA35-4F20-AD76-F1558EA4C022}|InCommPaymentWebApiCore.csproj|e:\\marcelo\\sandbox\\innpaymentstestcode\\incommpaymentwebapicore\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA68D7EF-AA35-4F20-AD76-F1558EA4C022}|InCommPaymentWebApiCore.csproj|solutionrelative:controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA68D7EF-AA35-4F20-AD76-F1558EA4C022}|InCommPaymentWebApiCore.csproj|e:\\marcelo\\sandbox\\innpaymentstestcode\\incommpaymentwebapicore\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA68D7EF-AA35-4F20-AD76-F1558EA4C022}|InCommPaymentWebApiCore.csproj|solutionrelative:model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "E:\\Marcelo\\SandBox\\InnPaymentsTestCode\\InCommPaymentWebApiCore\\Model\\Response.cs",
+              "RelativeDocumentMoniker": "Model\\Response.cs",
+              "ToolTip": "E:\\Marcelo\\SandBox\\InnPaymentsTestCode\\InCommPaymentWebApiCore\\Model\\Response.cs",
+              "RelativeToolTip": "Model\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:49:06.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Marcelo\\SandBox\\InnPaymentsTestCode\\InCommPaymentWebApiCore\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controller\\ProductController.cs",
+              "ToolTip": "E:\\Marcelo\\SandBox\\InnPaymentsTestCode\\InCommPaymentWebApiCore\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Controller\\ProductController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:45:48.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
