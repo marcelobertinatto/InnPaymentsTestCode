@@ -93,7 +93,7 @@ namespace InCommPaymentWebApiCore.Controller
             try
             {
                 //List<Product>? listProducts = null;
-                if(listProducts.Count == 0)
+                if(listProducts == null)
                 {
                     listProducts = new List<Product>()
                     {
